@@ -1,7 +1,7 @@
 # Swifty
 A Movie Trivia Quiz mobile application (2019).
 
-![picture alt](http://via.placeholder.com/200x150 "Swifty Logo")
+![picture alt](https://github.com/MalakSadek/Swifty/blob/master/logo.png "Swifty Logo")
 
 🧠 🎮 An Android and iOS trivia quiz mobile application written in `Swift`, `Java`, `PHP`, and `SQL`. It handles user accounts using Google's Firebase services and maintains a global leaderboard of scores (discussed below) originally using a `MySQL database` that is reached via `PHP scripts`, this was later migrated to `Google's NoSQL Firebase service`. The quizzes and questions are stored offline locally in `JSON files`.
 
