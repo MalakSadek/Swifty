@@ -1,7 +1,7 @@
 # Swifty
 A Movie Trivia Quiz mobile application (2019)
 
-🧠🎮 An Android and iOS trivia quiz mobile application written in Swift, Java, PHP, and SQL. It handles user accounts using Google's Firebase services and maintains a global leaderboard of scores (discussed below) originally using a MySQL database that is reached via PHP scripts, this was later migrated to Google's NoSQL Firebase service. The quizzes and questions are stored offline locally in JSON files.
+🧠🎮 An Android and iOS trivia quiz mobile application written in **Swift, Java, PHP, and SQL**. It handles user accounts using Google's Firebase services and maintains a global leaderboard of scores (discussed below) originally using a **MySQL database** that is reached via **PHP scripts**, this was later migrated to **Google's NoSQL Firebase service**. The quizzes and questions are stored offline locally in **JSON files**.
 
 There is also a scoring system for the quizzes. For every correct answer, the player earns 10 points, for every incorrect answer, they lose 10 points, and if the timer for the current question runs out, they lose 10 points. Players can have an overall negative score and there is a ranking system based on the number of points that they have.
 
