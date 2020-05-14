@@ -1,0 +1,332 @@
+{
+  "Categories": {
+    "SciFi": {
+      "Topics": {
+        "Star Wars": {
+          "Questions": {
+            "What is the name of Han Solo’s Ship?": [
+              "Millennium Falcon",
+              "Death Star",
+              "Imperial Landing Craft",
+              "USS Franklin"
+            ],
+            "What is the famous weapon used by Jedi Knights in Star Wars series?": [
+              "Light Saber",
+              "Lightning Saber",
+              "Mortars",
+              "Bowcaster"
+            ],
+            "Which young Jedi Knight becomes Darth Vader in Star Wars?": [
+              "Anakin Skywalker",
+              "Wilhuff Tarkin",
+              "Biggs Darklighter",
+              "Pavel Chekov"
+            ],
+            "What Ewok medicine man presided over the attempt to make a roast of Han Solo in Return of the Jedi?": [
+              "Logray",
+              "Lars",
+              "Uhura",
+              "Tarkin"
+            ],
+            "Who is Luke Skywalker’s dad?": [
+              "Anakin Skywalker",
+              "Biggs Darklighter",
+              "Wilhuff Tarkin",
+              "Uhura"
+            ],
+            "Who kills Jabba The Hutt?": [
+              "Princess Leia",
+              "Ello Asty",
+              "Tobias Beckett",
+              "Lott Dod"
+            ],
+            "What was Luke Skywalker’s original surname?": [
+              "Starkiller",
+              "Embo",
+              "Gallia",
+              "Jettster"
+            ],
+            "What planet do Wookiees come from?": [
+              "Kashyyk",
+              "Tatoonie",
+              "Naboo",
+              "Hoth"
+            ],
+            "Who was originally called Buffy?": [
+              "Yoda",
+              "Princess Leia",
+              "Anakin Skywalker",
+              "Obi-Wan Kenobi"
+            ],
+            "In 'Attack of the Clones', who says 'Oh, not good'?": [
+              "Obi-Wan Kenobi",
+              "Anakin Skywalker",
+              "Princess Leia",
+              "Yoda"
+            ]
+          }
+        },
+        "Star Trek": {
+          "Questions": {
+            "In Gene Roddenberry's original treatment for Star Trek, what was the name of the Starship?": [
+              "Yorktown",
+              "Plymouth",
+              "Reliant",
+              "Enterprise"
+            ],
+            "Who was the first actor to play a member of all three of the major alien races in Star Trek?": [
+              "Mark Lenard",
+              "Jeffrey Hunter",
+              "Leonard Nimoy",
+              "Christopher Lloyd"
+            ],
+            "What is Sulu's primary position on the U.S.S. Enterprise?": [
+              "Helsman",
+              "Navigator",
+              "Chief Engineer",
+              "Science Officer"
+            ],
+            "Which Star Trek captain has an artificial heart?": [
+              "Jean-Luc Picard",
+              "Jonathan Archer",
+              "Benjamin Sisko",
+              "Kathryn Janeway"
+            ],
+            "Who was the first Vulcan science officer aboard the starship Enterprise?": [
+              "T’Pol",
+              "Sarek",
+              "Spock",
+              "Tuvok"
+            ],
+            "Which alien race did Ronald Reagan say reminded him of Congress?": [
+              "Klingons",
+              "Ferengi",
+              "Borg",
+              "Vulcans"
+            ],
+            "Which species was the first to discover warp drive?": [
+              "Vulcans",
+              "Klingons",
+              "Humans",
+              "Borg"
+            ],
+            "What Star Trek character was labeled 'unknown sample' when discovered by Bajoran scientists?": [
+              "Odo",
+              "Khan Noonien Singh",
+              "Data",
+              "Seven of Nine"
+            ],
+            "Which Star Trek actor originally devised the Klingon language?": [
+              "James Doohan",
+              "Michael Ansara",
+              "Mark Lenard",
+              "Leonard Nimoy"
+            ],
+            "What character was adopted by the Vulcan ambassador Sarek?": [
+              "Michael Burham",
+              "Slvyia Tilly",
+              "Spock",
+              "Sybok"
+            ]
+          }
+        },
+        "Men In Black": {
+          "Questions": {
+            "Who is James Edwards?": [
+              "Agent J",
+              "Agent K",
+              "Agent Z",
+              "Agent E"
+            ],
+            "Which is correct?": [
+              "J neutralized K",
+              "J neutralized Z",
+              "J neutralized F",
+              "Z neutralized J"
+            ],
+            "Jack Jeebs can do what?": [
+              "Re-grow his body parts",
+              "Read minds",
+              "See through walls",
+              "Talk to animals"
+            ],
+            "What is the name of the leader of MIB?": [
+              "Agent Z",
+              "Agent Y",
+              "Agent L",
+              "Agent P"
+            ],
+            "What is the name of the Pug dog?": [
+              "Frank",
+              "Fred",
+              "Hank",
+              "James"
+            ],
+            "What is the Name of the Little Gun that K gives J?": [
+              "Noisy Cricket",
+              "Angry Cricket",
+              "Little Cricket",
+              "Cricket Blaster"
+            ],
+            "When Edgar has been taken over by the 'bug' what does he ask his wife for?": [
+              "Sugar Water",
+              "Honey Water",
+              "Hot Water",
+              "Salt Water"
+            ],
+            "Who does James Edwards work for before MIB?": [
+              "NYPD",
+              "LAPD",
+              "U.S Navy",
+              "U.S Army"
+            ],
+            "What does James say to the first Alien he meets?": [
+              "We will knock your punkass",
+              "We will hit you really hard",
+              "We're gonna knock you down",
+              "We will punch you to tomorrow"
+            ],
+            "Does K die in the movie?": [
+              "No",
+              "Yes",
+              "We don't find out",
+              "He transforms into an alien"
+            ]
+          }
+        }
+      }
+    },
+    "Comics": {
+      "Topics": {
+        "Avengers": {
+          "Questions": {
+            "What is Agent Coulson's first name?": [
+              "Phil",
+              "Carl",
+              "Steven",
+              "John"
+            ],
+            "What is the name of the blue glowing cube that Loki uses as a weapon?": [
+              "The Tesseract",
+              "The Soulstone",
+              "The Forever Cube",
+              "The Infinity Stone"
+            ],
+            "With what is Loki able to control minds?": [
+              "The Sceptre",
+              "A song",
+              "His Gaze",
+              "Magic Dust"
+            ],
+            "What is Captain America's real name?": [
+              "Steve Rogers",
+              "Tony Stark",
+              "Anthony Park",
+              "Steven Roger"
+            ],
+            "The 'Avengers' were formed as the result of a plot against his step-brother, by which villain?": [
+              "Loki",
+              "Quicksilver",
+              "Hulk",
+              "M'Baku"
+            ],
+            "What are The Avengers called?": [
+              "Earth's Mightiest Heroes",
+              "Earth’s Greatest Creations",
+              "The Wonderfuls",
+              "The Galaxy's Protectors"
+            ],
+            "Who constructed the Vision?": [
+              "Ultron",
+              "Tony Stark",
+              "Bruce Banner",
+              "Black Panther"
+            ],
+            "Who was Hawkeye married to?": [
+              "Mockingbird",
+              "MockingJay",
+              "The Wasp",
+              "Black Widow"
+            ],
+            "Black Widow. What is her real name?": [
+              "Natasha Romanov",
+              "Mila Jovovich",
+              "Pepper Potts",
+              "Hope Pym"
+            ],
+            "Who goes by the pseudonym Ronin?": [
+              "Clint Barton",
+              "Clint Eastwood",
+              "Clive Owen",
+              "Miles Morales"
+            ]
+          }
+        },
+        "X-Men": {
+          "Questions": {
+            "What metal alloy has Wolverine's skeleton been reinforced with?": [
+              "Adamantium",
+              "Vibranium",
+              "Carbonadium",
+              "Gravitonium"
+            ],
+            "Who is Quicksilver's father?": [
+              "Magneto",
+              "Charles Francis Xavier",
+              "Cyclops",
+              "Iceman"
+            ],
+            "Who is believed to be the first person ever born with the mutant gene?": [
+              "Apocalypse",
+              "Professor X",
+              "Cyclops",
+              "Iceman"
+            ],
+            "What superhero was Storm married to?": [
+              "Black Panther",
+              "Professor X",
+              "Cyclops",
+              "Beast"
+            ],
+            "Gambit! What's his real name?": [
+              "Remy Etienne LeBeau",
+              "Charles Francis Xavier",
+              "Robert Louis",
+              "Kevin Sydney"
+            ],
+            "By what name is Victor Creed better known?": [
+              "Sabretooth",
+              "Mimic",
+              "Cyclops",
+              "Beast"
+            ],
+            "By what other name is the X-Men's plane, the X-Jet, also known?": [
+              "The Blackbird",
+              "Quinjet",
+              "Squirrel-a-gig",
+              "Globemaster"
+            ],
+            "What mutant powers does Jubilee have?": [
+              "The ability to project pyrotechnics",
+              "Generates plasma blasts and absorbs 'cosmic' energy",
+              "Time control",
+              "Telekinesis"
+            ],
+            "In the X-Men comic, whom did Cyclops marry after Jean Grey 'died'?": [
+              "Madelyne Pryor",
+              "Lorna Dane",
+              "Moira MacTaggert",
+              "Ororo Iqadi"
+            ],
+            "What is Rogue's name?": [
+              "Marie D'Ancanto",
+              "Lorna Dane",
+              "Suzanne Chan",
+              "Elizabeth Braddock"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
